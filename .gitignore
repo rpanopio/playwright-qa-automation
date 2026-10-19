@@ -12,3 +12,6 @@ __pycache__/
 # Test reports and artifacts
 reports/
 test-results/
+
+# macOS system files
+.DS_Store

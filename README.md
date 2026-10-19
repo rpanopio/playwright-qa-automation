@@ -60,3 +60,7 @@ Playwright screenshots, and traces for debugging.
 
 This project demonstrates practical skills in Python
 QA automation and test framework development.
+
+## Future Improvements
+
+- CI/CD integration with GitHub Actions
