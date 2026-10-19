@@ -64,3 +64,4 @@ QA automation and test framework development.
 ## Future Improvements
 
 - CI/CD integration with GitHub Actions
+- Cross-browser testing with Firefox and WebKit
