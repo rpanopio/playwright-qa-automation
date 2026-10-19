@@ -1,0 +1,14 @@
+
+# Local environment configuration
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Test reports and artifacts
+reports/
+test-results/
