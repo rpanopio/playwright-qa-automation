@@ -11,13 +11,15 @@ class CartPage:
             '[data-test="shopping-cart-link"]'
         )
 
+        
         self.product_name = page.locator(
-            '[data-test="inventory-item-name"]'
+            '.cart_item [data-test="inventory-item-name"]'
         )
 
         self.product_price = page.locator(
-            '[data-test="inventory-item-price"]'
-        )
+            '.cart_item [data-test="inventory-item-price"]'
+        )       
+
 
         self.product_quantity = page.locator(
             '[data-test="item-quantity"]'
